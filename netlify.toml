@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/compass.html"
+  status = 200
